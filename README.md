@@ -1,4 +1,4 @@
-# E_Commerce_Fullstack Part Front End
+# E_Commerce_Fullstack Part Front End (Inacabado)
 
 ## Instale as dependências
 ```
@@ -9,5 +9,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Ainda está inacabado!
